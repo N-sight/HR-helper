@@ -1,8 +1,8 @@
 <?php
     define ("server_name",'localhost');
-    define ("db_name",'c18372_hr_helper');
-    define ("username",'c18372_hr_help');
-    define ("pass_word",'hou6Grah');
+    define ("db_name",'hr_helper');
+    define ("username",'hr_help');
+    define ("pass_word",'aou5GlEBSU52Sc3IYKw1');
 
     define ("path",'/hr/');
 
