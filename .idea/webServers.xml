@@ -10,6 +10,14 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="b857eed4-2ca7-42cb-9785-307c4ab9f984" name="RuVDS" url="http://naughtysight.ru">
+        <fileTransfer host="194.87.98.152" port="21" rootFolder="/public_html" password="dfcfdf9ddf9adfcfdf93dfcfdf9ddfc9df9edf92dfc8df9fdfccdf93dfcedf93dfcfdf9fdfc8dfcbdfcedfc9dfc8dfcfdfcbdf9edf9cdf93df9cdf99df9bdfcc" username="admin_naughtysight">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </project>
