@@ -16,6 +16,6 @@
     define ("pic_default",'default.jpg'); // read-only
     define ("city_default",'cities.txt'); // в кодировке cp1251 по  больше по приколу
 
-    define ("title_const",'HR-Helper');
+    define ("title_const",'HR-Helper');  
     
 
